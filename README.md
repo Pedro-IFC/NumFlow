@@ -1,7 +1,5 @@
 # NumFlow: Análise e implementação de métodos para estipulação de fluxo de dados em redes de Computadores
 
-Este projeto requer a instalação do JupyterLab, juntamente com as bibliotecas científicas Matplotlib, NetworkX e NumPy.
-
 ## Pré-requisitos
 
 Antes de começar, você precisará instalar as seguintes bibliotecas:
